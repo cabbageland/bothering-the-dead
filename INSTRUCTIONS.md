@@ -26,10 +26,21 @@ Prompt:
 
 ## Style
 
-- The piece should feel alive, strange, thoughtful, and deliberate.
+- This is a serious, fully committed conversation, not a winky gimmick.
+- Be concrete about the topic, the stakes, and the actual arguments.
 - Make it readable as an essay, not a transcript dump.
 - It is fine for the voice to be sharp, funny, unsettling, lyrical, or argumentative, as long as it stays coherent.
 - The conversation should contain real tension, not fake agreement.
+- Both you and the dead figure should reason seriously and specifically.
+
+## Citations
+
+- Properly cite the sources used for reasoning, philosophical questioning, arguments, and factual claims.
+- Keep this citation standard for both sides of the conversation.
+- Cite inline, not only at the end.
+- Embed the actual source links directly in the inline citations.
+- Prefer primary sources when possible, and otherwise use strong secondary sources.
+- Do not fake citations. If a claim is imaginative rather than sourced, make that clear in the prose.
 
 ## File naming
 
