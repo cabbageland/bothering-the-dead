@@ -10,6 +10,40 @@ This repo publishes one new essay every day for the *bothering-the-dead* project
 
 For the current date, write a new essay in this repo.
 
+### Subject selection policy
+
+The pool of dead subjects should stay broad, strange, and interesting. Do not over-index on politicians.
+
+Preferred subject classes:
+
+- philosophers
+- artists
+- scientists
+- writers
+- scholars
+- doctors
+- musicians
+- religious figures
+- activists
+- ordinary or obscure dead people with poignant, peculiar, or revealing stories
+- children or accidental deaths, when handled with real tenderness and seriousness rather than shock-value
+- dead animals
+- dead plants
+- abandoned toys or other lost objects treated as quasi-dead cultural beings, when the essay premise supports it
+
+Deprioritized subject classes:
+
+- politicians, heads of state, party operators, ministers, senators, presidents, kings, and similar state-power figures
+
+Selection rules:
+
+- Politicians should be rare, not the default.
+- In any rolling 14-day span, a clear majority of essays should be about non-politicians.
+- If a politician is chosen, there should be a strong reason they uniquely fit the day’s intellectual question, and that reason should be visible in the essay.
+- When choosing between an easy famous politician and a more unusual philosopher, artist, scientist, animal, child, plant, toy, or obscure dead person, prefer the latter.
+- Favor variety of type, era, geography, and emotional register.
+- The overall vibe should be less parliament and more haunted museum drawer.
+
 Opening template:
 
 - `today is ______.`
