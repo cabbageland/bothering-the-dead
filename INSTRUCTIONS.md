@@ -94,3 +94,6 @@ Prompt:
 - Do not overwrite previous essays.
 - Write exactly one new essay per scheduled run unless explicitly asked otherwise.
 - If the best title subject becomes clear only after writing, choose the filename accordingly.
+- For local file inspection and cleanup checks, use ordinary shell/file tools such as `ls`, `find`, `sed -n`, `grep`, `git`, and small bounded reads.
+- Do not use abstract helper actions like `search ...` or `print lines ...` against local files in cron runs; they are flaky and count as avoidable failures.
+- If you want to check for non-ASCII characters or similar file-level issues, use a normal shell command such as `LC_ALL=C grep -n "[^ -~]" "MM-DD bothering NAME.md"` instead of an abstract search helper.
