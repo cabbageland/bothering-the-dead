@@ -14,6 +14,14 @@ For the current date, write a new essay in this repo.
 
 The pool of dead subjects should stay broad, strange, and interesting. Do not over-index on politicians.
 
+Current standing thematic preference:
+
+- Celebrate physics.
+- Talk to dead physicists by default until Tracy changes the theme.
+- Prefer physicists over other subject classes when choosing the day's subject, unless a different dead figure has a clearly stronger fit for the day's exact question.
+- Within the physics lane, favor breadth rather than the same canonical men forever: vary era, geography, subfield, fame level, and moral register.
+- Good lanes include theoretical physics, experimental physics, astrophysics, geophysics, climate and atmospheric physics, statistical mechanics, thermodynamics, electromagnetism, quantum theory, relativity, condensed matter, nuclear physics, instrumentation, and overlooked physics-adjacent lives where the essay still genuinely talks to physics.
+
 Preferred subject classes:
 
 - philosophers
@@ -37,6 +45,8 @@ Deprioritized subject classes:
 
 Selection rules:
 
+- Under the current physics-celebration mode, a dead physicist should be the default subject.
+- If you choose someone other than a physicist while this mode is active, the essay should make the reason obvious.
 - Politicians should be rare, not the default.
 - In any rolling 14-day span, a clear majority of essays should be about non-politicians.
 - If a politician is chosen, there should be a strong reason they uniquely fit the day’s intellectual question, and that reason should be visible in the essay.
